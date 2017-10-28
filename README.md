@@ -1,4 +1,4 @@
-#LogDNA Challenge
+#LogDNA Test
 
 Good user experience is core to what we do here at LogDNA. So we try to build features that taylor to our user's needs. In many cases, this means making these features flexible, or susceptable to human error. In this particular challenge, we are looking to improve user experience by doing some parsing of search terms for JSON fields.
 
